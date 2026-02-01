@@ -93,10 +93,10 @@ class RemoteStorageBackend(SQLiteStorageMixin, StorageBackend):
         # 初始化 S3 客户端
         # 使用 virtual-hosted style addressing（主流）
         # 根据服务商选择签名版本：
-        # - 腾讯云 COS 使用 SigV2 以避免 chunked encoding 问题
-        # - 其他服务商（AWS S3、Cloudflare R2、阿里云 OSS、MinIO 等）默认使用 SigV4
-        is_tencent_cos = "myqcloud.com" in endpoint_url.lower()
-        signature_version = 's3' if is_tencent_cos else 's3v4'
+        # - 腾讯云 COS 和 阿里云 OSS 使用 SigV2 以避免 chunked encoding 问题
+        # - 其他服务商（AWS S3、Cloudflare R2、MinIO 等）默认使用 SigV4
+        use_sigv2 = "myqcloud.com" in endpoint_url.lower() or "aliyuncs.com" in endpoint_url.lower()
+        signature_version = 's3' if use_sigv2 else 's3v4'
 
         s3_config = BotoConfig(
             s3={"addressing_style": "virtual"},
@@ -411,6 +411,28 @@ class RemoteStorageBackend(SQLiteStorageMixin, StorageBackend):
                 return True
             else:
                 print(f"[远程存储] 推送记录同步到远程存储失败")
+                return False
+
+        return False
+
+    def has_ai_analyzed_today(self, date: Optional[str] = None) -> bool:
+        """检查指定日期是否已进行过 AI 分析"""
+        return self._has_ai_analyzed_today_impl(date)
+
+    def record_ai_analysis(self, analysis_mode: str, date: Optional[str] = None) -> bool:
+        """记录 AI 分析"""
+        success = self._record_ai_analysis_impl(analysis_mode, date)
+
+        if success:
+            now_str = self._get_configured_time().strftime("%Y-%m-%d %H:%M:%S")
+            print(f"[远程存储] AI 分析记录已保存: {analysis_mode} at {now_str}")
+
+            # 上传到远程存储 确保记录持久化
+            if self._upload_sqlite(date):
+                print(f"[远程存储] AI 分析记录已同步到远程存储")
+                return True
+            else:
+                print(f"[远程存储] AI 分析记录同步到远程存储失败")
                 return False
 
         return False

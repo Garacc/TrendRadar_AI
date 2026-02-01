@@ -8,13 +8,11 @@ Deploy in <strong>30 seconds</strong> — Say goodbye to endless scrolling, only
 
 <a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<a href="https://shandianshuo.cn" target="_blank" title="AI Voice Input, 4x Faster Than Typing ⚡"><img src="_image/shandianshuo.png" alt="FlashSpeak logo" height="50"/></a>
-
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v5.2.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v3.1.6-green.svg)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v5.5.0-blue.svg)](https://github.com/sansan0/TrendRadar)
+[![MCP](https://img.shields.io/badge/MCP-v3.1.7-green.svg)](https://github.com/sansan0/TrendRadar)
 [![RSS](https://img.shields.io/badge/RSS-Feed_Support-orange.svg?style=flat-square&logo=rss&logoColor=white)](https://github.com/sansan0/TrendRadar)
 [![AI Translation](https://img.shields.io/badge/AI-Multi--Language-purple.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
 
@@ -137,34 +135,76 @@ After communication, the author indicated no concerns about server pressure, but
 
 ## 🪄 Sponsors
 
-> Writing reports, replying messages making your wrists tired? Try「FlashSpeak」AI Voice Input - Speak instead of type, 4x faster ⚡
-
 <div align="center">
 
-[![Mac Download](https://img.shields.io/badge/Mac-Free_Download-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://shandianshuo.cn) [![Windows Download](https://img.shields.io/badge/Windows-Free_Download-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](https://shandianshuo.cn)
-<a href="https://shandianshuo.cn" target="_blank">
-  <img src="_image/banner-shandianshuo.png" alt="FlashSpeak" width="600"/>
-</a>
+> **Sponsorship Open**  
+>
+> Seeking quality product partners.  
+> More than features, I value **your attitude towards users**.  
+> Please share your user community or feedback channels—I want to see how you support your users.  
+> [📩 Contact Me](mailto:path@linux.do)  
+
 </div>
 
 <br>
 
-## ☕ Support Project
+<a name="-support-project"></a>
 
-> If this project is helpful to you, you can choose the following ways to support:
-> 1. **Public Welfare**: Search for **Tencent Charity** on WeChat and donate to **Education Support** related projects as you wish.
->
-> 2. **Sponsor the Developer**: Your sponsorship will be used to replenish caffeine for the carbon-based organism and Token consumption for the silicon-based organism.
+## ✨ Find it useful? Support TrendRadar
+
+TrendRadar is a completely free and open-source project. Your support fuels the motivation for continuous updates.
+
+### ❤️ Donate
+
+A bottle of water or a snack represents your love.
+Any amount is welcome; even 1 RMB is a gesture of kindness.
+
+> Your sponsorship will be used to replenish caffeine for carbon-based lifeforms ☕️ and API Tokens for silicon-based lifeforms 🤖.
+
+<div align="center">
+
+| WeChat Pay | Alipay |
+| --- | --- |
+| <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="240" alt="WeChat Pay"> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F1ed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="240" alt="Alipay"> |
+
+</div>
+
+### 🌟 Other Ways to Support
+
+1. **Star the Repo** ⭐️: It only takes **1 second**. Letting more people see this project is the greatest recognition for me.
+2. **Charity** 🌻: Search for **Tencent Charity** (or support a local charity) to help students in need. Pass this kindness forward.
+
+### 🤝 Attribution & Secondary Development
+
+If you utilize the core code or draw inspiration from the logic of this project, **it would be greatly appreciated** if you could acknowledge the source in your README or documentation and include a link to this repository.
+
+> [https://github.com/sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+
+This contributes to the sustainable maintenance of the project and the growth of the community. Thank you for your respect and support! ❤️
+
+**Reference Example** (e.g., my other project):
+
+> [https://github.com/sansan0/bilibili-comment-analyzer](https://github.com/sansan0/bilibili-comment-analyzer)
 
 
-- **GitHub Issues**: Suitable for targeted answers. Please provide complete info when asking (screenshots, error logs, system environment, etc.).
-- **Official Account**: Suitable for quick consultation. Suggest priority to communicate in public comment area of related articles. If private message, please use polite language 😉
-- **Contact**: path@linux.do
+---
 
+### 💬 Feedback & Community
 
-| Official Account | WeChat Appreciation | Alipay Appreciation |
-|:---:|:---:|:---:|
-| <img src="_image/weixin.png" width="300" title="Silicon Tea Room"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="300" title="WeChat Pay"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F1ed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="300" title="Alipay"/> |
+* **GitHub Issues**: Best for specific technical issues. Please provide complete information (screenshots, error logs, etc.) to help locate the problem quickly.
+* **WeChat Official Account**: It is recommended to leave comments under relevant articles. If you need to ask questions in the background, **liking/recommending** the article first is the best "icebreaker," and I can feel your appreciation (´▽`ʃ♡ƪ).
+
+> **Friendly Reminder**:  
+> This project is for open-source sharing, not a commercial product. A lot of effort went into the documentation; most deployment issues can be answered in **[🚀 Quick Start](#-quick-start)**.   
+> *Please be patient and polite when asking questions. Treat the author as a friend, not customer service, for better communication efficiency!*  
+
+<div align="center">
+
+| Follow on WeChat |
+| --- |
+| <img src="_image/weixin.png" width="500" title="Silicon-based Tea Room"/> |
+
+</div>
 
 <br>
 
@@ -172,6 +212,31 @@ After communication, the author indicated no concerns about server pressure, but
 
 >**📌 Check Latest Updates**: **[Original Repository Changelog](https://github.com/sansan0/TrendRadar?tab=readme-ov-file#-changelog)**:
 - **Tip**: Check [Changelog] to understand specific [Features]
+
+### 2026/01/23 - v5.4.0
+
+- Added independent control for AI analysis mode, options: follow_report | daily | current | incremental
+- Added time window control for AI analysis, supporting custom execution periods and daily frequency limits
+- Added configuration file version management function
+- Fixed several bugs
+
+### 2026/01/19 - v5.3.0
+
+> **Major Refactor: AI Module Migration to LiteLLM**
+
+- **Unified AI Interface**: Replaced manual implementation with LiteLLM, supporting 100+ AI providers
+- **Simplified Configuration**: Removed `provider` field, now using `model: "provider/model_name"` format
+- **New Features**: Auto-retry (`num_retries`), fallback models (`fallback_models`)
+- **Configuration Changes**:
+  - `ai.provider` → Removed (merged into model)
+  - `ai.base_url` → `ai.api_base`
+  - `AI_PROVIDER` environment variable → Removed
+  - `AI_BASE_URL` environment variable → `AI_API_BASE`
+- **Model Format Examples**:
+  - DeepSeek: `deepseek/deepseek-chat`
+  - OpenAI: `openai/gpt-4o`
+  - Gemini: `gemini/gemini-2.5-flash`
+  - Anthropic: `anthropic/claude-3-5-sonnet`
 
 ### 2026/01/17 - v5.2.0
 
@@ -3233,19 +3298,28 @@ The simplest way is via environment variables (Recommended for GitHub Secrets or
 |--------------|-------|-------------|
 | `AI_ANALYSIS_ENABLED` | `true` | Enable switch |
 | `AI_API_KEY` | `sk-xxxxxx` | Your API Key |
-| `AI_PROVIDER` | `deepseek` | AI Provider (see table below) |
-| `AI_MODEL` | `deepseek-chat` | Model Name |
+| `AI_MODEL` | `deepseek/deepseek-chat` | Model identifier (format: `provider/model`) |
 
-**Supported AI Providers**:
+**Supported AI Providers** (Based on LiteLLM, supports 100+ providers):
 
-| Provider | AI_PROVIDER Value | Default Model (AI_MODEL) |
-|----------|-------------------|------------------------|
-| **DeepSeek** (Recommended) | `deepseek` | `deepseek-chat` |
-| **OpenAI** | `openai` | `gpt-4o` |
-| **Google Gemini** | `gemini` | `gemini-1.5-flash` |
-| **Custom** (OneAPI) | `custom` | Requires `AI_BASE_URL` |
+| Provider | AI_MODEL Value | Description |
+|----------|----------------|-------------|
+| **DeepSeek** (Recommended) | `deepseek/deepseek-chat` | Excellent cost-performance ratio for high-frequency analysis |
+| **OpenAI** | `openai/gpt-4o`<br>`openai/gpt-4o-mini` | GPT-4o series |
+| **Google Gemini** | `gemini/gemini-1.5-flash`<br>`gemini/gemini-1.5-pro` | Gemini series |
+| **Custom API** | Any format | Use with `AI_API_BASE` |
 
-> 💡 **Tip**: DeepSeek offers excellent performance/price ratio, highly suitable for high-frequency news analysis.
+> 💡 **New Feature**: Now based on [LiteLLM](https://github.com/BerriAI/litellm) unified interface, supporting 100+ AI providers with simpler configuration and better error handling.
+
+**Optional Configurations**:
+
+| Variable Name | Default | Description |
+|--------------|---------|-------------|
+| `AI_API_BASE` | (auto) | Custom API endpoint (e.g., OneAPI, local models) |
+| `AI_TEMPERATURE` | `1.0` | Sampling temperature (0-2, higher = more random) |
+| `AI_MAX_TOKENS` | `5000` | Maximum tokens to generate |
+| `AI_TIMEOUT` | `120` | Request timeout (seconds) |
+| `AI_NUM_RETRIES` | `2` | Number of retries on failure |
 
 #### Advanced: AI Translation
 

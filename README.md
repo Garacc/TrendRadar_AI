@@ -8,13 +8,12 @@
 
 <a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="50"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v5.2.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v3.1.6-green.svg)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v5.5.0-blue.svg)](https://github.com/sansan0/TrendRadar)
+[![MCP](https://img.shields.io/badge/MCP-v3.1.7-green.svg)](https://github.com/sansan0/TrendRadar)
 [![RSS](https://img.shields.io/badge/RSS-订阅源支持-orange.svg?style=flat-square&logo=rss&logoColor=white)](https://github.com/sansan0/TrendRadar)
 [![AI翻译](https://img.shields.io/badge/AI-多语言推送-purple.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
 
@@ -184,34 +183,73 @@
 
 ## 🪄 赞助商
 
-> 每天写报告、回复消息是否让手腕疲惫？试试「闪电说」AI 语音输入法 —— 说话，比打字快 4 倍 ⚡ 
-
 <div align="center">
 
-[![Mac下载](https://img.shields.io/badge/Mac-免费下载-FF6B6B?style=for-the-badge&logo=apple&logoColor=white)](https://shandianshuo.cn) [![Windows下载](https://img.shields.io/badge/Windows-免费下载-FF6B6B?style=for-the-badge&logo=lightning&logoColor=white)](https://shandianshuo.cn)
-<a href="https://shandianshuo.cn" target="_blank">
-  <img src="_image/banner-shandianshuo.png" alt="闪电说" width="600"/>
-</a>
+> **虚位以待**
+>
+> 寻找靠谱的产品赞助。   
+> 比起功能，我更看重**你对待用户的态度**。  
+> 请附带你的用户群或反馈渠道，让我看到你是如何帮助用户解决问题的。  
+> [📩 点击联系](mailto:path@linux.do) 
+
 </div>
 
 <br>
 
-## ☕ 支持项目
+<a name="-支持项目"></a>
+## ✨ 觉得好用？支持一下
 
-> 如果本项目对你有帮助，你可以选择以下方式支持：
-> 1. **公益助学**：微信搜索**腾讯公益**，对里面的**助学**相关的项目随心捐。
->
-> 2. **赞助开发者**：你的赞助将用于补充碳基生物的咖啡因和硅基生物的 Token 消耗。
+TrendRadar 是完全开源免费的项目，持续更新需要你的动力支持。
 
+### ❤️ 随心赞赏
 
-- **GitHub Issues**：适合针对性强的解答。提问时请提供完整信息（截图、错误日志、系统环境等）。
-- **公众号交流**：适合快速咨询。建议优先在相关文章下的公共留言区交流，如私信，请文明礼貌用语😉
-- **联系方式**：path@linux.do
+一瓶水、一包辣条都是爱。
+金额随意，1 元也是一份心意。
 
+> 你的赞助将用于补充碳基生物的咖啡因 ☕️ 和硅基生物的 API Token 消耗 🤖。
 
-|公众号关注 |微信点赞 | 支付宝点赞 |
-|:---:|:---:|:---:|
-| <img src="_image/weixin.png" width="300" title="硅基茶水间"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="300" title="微信支付"/> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F1ed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="300" title="支付宝支付"/> |
+<div align="center">
+
+| 微信赞赏 | 支付宝赞赏 |
+|:---:|:---:|
+| <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="240" alt="微信赞赏"> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F1ed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="240" alt="支付宝赞赏"> |
+
+</div>
+
+### 🌟 其他支持方式
+
+1. **点亮 Star** ⭐️：动动手指只需 **1 秒**，让更多人看到这个项目，这是对我最大的认可。
+2. **公益助学** 🌻：微信搜索**腾讯公益**，支持**助学**项目。将这份善意传递给需要的人。
+
+### 🤝 二次开发与引用
+
+如果你在项目中使用或借鉴了本项目的思路、核心代码，**非常欢迎**在 README 或文档中注明来源并附上本仓库链接。
+
+> [https://github.com/sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+
+这将有助于项目的持续维护和社区发展，感谢你的尊重与支持！❤️
+
+**示范参考**（比如我的这个项目）：
+> [https://github.com/sansan0/bilibili-comment-analyzer](https://github.com/sansan0/bilibili-comment-analyzer)
+
+---
+
+### 💬 交流与反馈
+
+- **GitHub Issues**：适合具体的技术问题。提问时请提供完整信息（截图、错误日志等），有助于快速定位。
+- **公众号交流**：建议优先在相关文章下的留言区交流。若需后台提问，**先点赞/推荐**文章是最好的“敲门砖”，我在后台都能感受到这份心意哟 (´▽`ʃ♡ƪ)。
+
+> **友情提示**：   
+> 本项目为开源分享，非商业产品。文档倾注了大量心血，绝大多数部署问题都能在 [**🚀 快速开始**](#-快速开始) 中找到答案。   
+> *提问请保持耐心与礼貌，把作者当朋友而非客服，沟通效率会更高哦！*  
+
+<div align="center">
+
+|公众号关注 |
+|:---:|
+| <img src="_image/weixin.png" width="500" title="硅基茶水间"/> |
+
+</div>
 
 <br>
 
@@ -219,6 +257,55 @@
 
 > **📌 查看最新更新**：**[原仓库更新日志](https://github.com/sansan0/TrendRadar?tab=readme-ov-file#-更新日志)** ：
 - **提示**：建议查看【历史更新】，明确具体的【功能内容】
+
+
+### 2026/01/28 - v5.5.0
+
+> 和 mcp 功能一样, 这个小工具我也不新开一个仓库维护了, 反正纯前端, 都搁一起吧
+
+- 增加 trendradar 的可视化配置编辑器 
+
+
+### 2026/01/10 - mcp-v3.0.0~v3.1.5
+
+- **Breaking Change**：所有工具返回值统一为 `{success, summary, data, error}` 结构
+- **异步一致性**：所有 21 个工具函数使用 `asyncio.to_thread()` 包装同步调用
+- **MCP Resources**：新增 4 个资源（platforms、rss-feeds、available-dates、keywords）
+- **RSS 增强**：`get_latest_rss` 支持多日查询（days 参数），跨日期 URL 去重
+- **正则匹配修复**：`get_trending_topics` 支持 `/pattern/` 正则语法和 `display_name`
+- **缓存优化**：新增 `make_cache_key()` 函数，参数排序+MD5 哈希确保一致性
+- **新增 check_version 工具**：支持同时检查 TrendRadar 和 MCP Server 版本更新
+
+
+<details>
+<summary>👉 点击展开：<strong>历史更新</strong></summary>
+
+
+### 2026/01/23 - v5.4.0
+
+- 增加 AI 分析模式的独立控制功能，可选 follow_report | daily | current | incremental 
+- 新增 AI 分析时间窗口控制，支持自定义运行段及每日频次限制
+- 增加配置文件版本管理功能
+- 修复若干bug
+
+
+### 2026/01/19 - v5.3.0
+
+> **重大重构：AI 模块迁移至 LiteLLM**
+
+- **统一 AI 接口**：使用 LiteLLM 替代手动实现，支持 100+ AI 提供商
+- **简化配置**：移除 `provider` 字段，改用 `model: "provider/model_name"` 格式
+- **新增功能**：自动重试 (`num_retries`)、备用模型 (`fallback_models`)
+- **配置变更**：
+  - `ai.provider` → 移除（已合并到 model）
+  - `ai.base_url` → `ai.api_base`
+  - `AI_PROVIDER` 环境变量 → 移除
+  - `AI_BASE_URL` 环境变量 → `AI_API_BASE`
+- **模型格式示例**：
+  - DeepSeek: `deepseek/deepseek-chat`
+  - OpenAI: `openai/gpt-4o`
+  - Gemini: `gemini/gemini-2.5-flash`
+  - Anthropic: `anthropic/claude-3-5-sonnet`
 
 ### 2026/01/17 - v5.2.0
 
@@ -252,22 +339,6 @@
 
 - 修复若干已知问题，提升系统稳定性
 
-
-### 2026/01/10 - mcp-v3.0.0~v3.1.5
-
-- **Breaking Change**：所有工具返回值统一为 `{success, summary, data, error}` 结构
-- **异步一致性**：所有 21 个工具函数使用 `asyncio.to_thread()` 包装同步调用
-- **MCP Resources**：新增 4 个资源（platforms、rss-feeds、available-dates、keywords）
-- **RSS 增强**：`get_latest_rss` 支持多日查询（days 参数），跨日期 URL 去重
-- **正则匹配修复**：`get_trending_topics` 支持 `/pattern/` 正则语法和 `display_name`
-- **缓存优化**：新增 `make_cache_key()` 函数，参数排序+MD5 哈希确保一致性
-- **新增 check_version 工具**：支持同时检查 TrendRadar 和 MCP Server 版本更新
-
-
-<details>
-<summary>👉 点击展开：<strong>历史更新</strong></summary>
-
-
 ### 2026/01/10 - v5.0.0
 
 > **开发小插曲**：
@@ -277,8 +348,8 @@
 
 本次更新对推送消息进行了区域化重构，现在推送内容清晰地划分为五大核心板块：
 
-1.  **📊 热榜新闻**：根据您的关键词精准筛选后的全网热点聚合。
-2.  **📰 RSS 订阅**：您的个性化订阅源内容，支持按关键词分组。
+1.  **📊 热榜新闻**：根据你的关键词精准筛选后的全网热点聚合。
+2.  **📰 RSS 订阅**：你的个性化订阅源内容，支持按关键词分组。
 3.  **🆕 本次新增**：实时捕捉自上次运行以来的全新热点（带 🆕 标记）。
 4.  **📋 独立展示区**：指定平台的完整热榜或 RSS 源展示，**完全不受关键词过滤限制**。
 5.  **✨ AI 分析板块**：由 AI 驱动的深度洞察，包含趋势概述、热度走势及**极其重要**的情感倾向分析。
@@ -3227,19 +3298,28 @@ app:
 |-------|-------|------|
 | `AI_ANALYSIS_ENABLED` | `true` | 开启开关 |
 | `AI_API_KEY` | `sk-xxxxxx` | 你的 API Key |
-| `AI_PROVIDER` | `deepseek` | AI 提供商（见下表） |
-| `AI_MODEL` | `deepseek-chat` | 模型名称 |
+| `AI_MODEL` | `deepseek/deepseek-chat` | 模型标识（格式：`provider/model`） |
 
-**支持的 AI 提供商**：
+**支持的 AI 提供商**（基于 LiteLLM，支持 100+ 提供商）：
 
-| 提供商 | AI_PROVIDER 填什么 | 默认模型 (AI_MODEL) |
-|-------|-------------------|-------------------|
-| **DeepSeek** (推荐) | `deepseek` | `deepseek-chat` |
-| **OpenAI** | `openai` | `gpt-4o` |
-| **Google Gemini** | `gemini` | `gemini-1.5-flash` |
-| **自定义** (OneAPI) | `custom` | 需额外配置 `AI_BASE_URL` |
+| 提供商 | AI_MODEL 填什么 | 说明 |
+|-------|----------------|------|
+| **DeepSeek** (推荐) | `deepseek/deepseek-chat` | 性价比极高，适合高频分析 |
+| **OpenAI** | `openai/gpt-4o`<br>`openai/gpt-4o-mini` | GPT-4o 系列 |
+| **Google Gemini** | `gemini/gemini-1.5-flash`<br>`gemini/gemini-1.5-pro` | Gemini 系列 |
+| **自定义 API** | 任意格式 | 配合 `AI_API_BASE` 使用 |
 
-> 💡 **小技巧**：DeepSeek 性价比极高，非常适合用来做这种高频的新闻分析。
+> 💡 **新特性**：现已基于 [LiteLLM](https://github.com/BerriAI/litellm) 统一接口，支持 100+ AI 提供商，配置更简单、错误处理更完善。
+
+**可选配置项**：
+
+| 变量名 | 默认值 | 说明 |
+|-------|-------|------|
+| `AI_API_BASE` | (自动) | 自定义 API 地址（如 OneAPI、本地模型） |
+| `AI_TEMPERATURE` | `1.0` | 采样温度（0-2，越高越随机） |
+| `AI_MAX_TOKENS` | `5000` | 最大生成 token 数 |
+| `AI_TIMEOUT` | `120` | 请求超时时间（秒） |
+| `AI_NUM_RETRIES` | `2` | 失败重试次数 |
 
 #### 进阶玩法：AI 翻译
 
